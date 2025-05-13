@@ -8,7 +8,7 @@
 --- 
 
 ## Wilkommen!
-- 🌱 I'm a passionate **All things Cloud + DevOps.**
+- 🌱 I'm a passionate **All things Cloud + DevOps Enthusiast.**
 - I believe infrastructure should be reproducible, systems observable, and deployments boring (because they just work).
 
 
