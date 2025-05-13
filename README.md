@@ -1,22 +1,19 @@
 
 ![github-header-image (1)](https://github.com/zyusuf88/zyusuf88/assets/97973445/e667012d-a27c-4962-983e-3044dd938f8e)
 
-<h1 align="center">Hi <img src="https://github.com/zyusuf88/2-Tier-Web-Application/assets/97973445/af2b6192-565c-4063-8278-95c4eaae1a23" width="70px" style="vertical-align:middle"> I'm Kadar</h1>
+<h1 align="center"> Hi, I’m Kadar — DevOps Engineer on a Mission to Automate Everything </h1>
 
-
-</center>
-<h3 align="center"> DevOps Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
-
-- 🔭 My most recent project: **[devsecops-pipeline](https://github.com/zyusuf88/devsecops-pipeline)**
--  🌱 I’m currently learning **All things Cloud + DevOps**
-
+--- 
 
  
+## Wilkommen!
+- 🌱 I'm a passionate **All things Cloud + DevOps.**
+- I believe infrastructure should be reproducible, systems observable, and deployments boring (because they just work).
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynab-yusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynab-yusuf/" height="30" width="40" /></a><a href="https://medium.com/@y.zeynab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y.zeynab1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ks-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ks-ahmed/" height="30" width="40" /></a><a href="https://medium.com/@y.zeynab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y.zeynab1" height="30" width="40" /></a>
 </p>
  
 <h3 align="left">Tech Stack:</h3>
