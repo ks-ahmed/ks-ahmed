@@ -1,8 +1,16 @@
 
-<img width="900" alt="DevOps" class="center" src="https://media.licdn.com/dms/image/v2/D4E22AQExk7M4ukJGlg/feedshare-shrink_800/B4EZaaqw_IGYAg-/0/1746351625053?e=1750291200&v=beta&t=M0EHjlgjdiIRLxU50GsGjNjBHY5z6fu16FKWYo1bv6w" />
+<img width="700" alt="DevOps" class="center" src="https://media.licdn.com/dms/image/v2/D4E22AQExk7M4ukJGlg/feedshare-shrink_800/B4EZaaqw_IGYAg-/0/1746351625053?e=1750291200&v=beta&t=M0EHjlgjdiIRLxU50GsGjNjBHY5z6fu16FKWYo1bv6w" />
 
 
 <h1 align="center"> Hello!👋 </h1>
+
+<div align="center">
+  <samp>
+    <p>Thoughts, views, and opinions expressed on this page are solely my own and not those of my employers 💭</p>
+    <p>Passionate about automating, streamlining and making deployments faster and more reliable 🚀 </p>
+    <p>I'm a born tech enthusiast with growing toolkit in AWS cloud platforms, containerization (Docker, Kubernetes), and infrastructure-as-code (Terraform) 🌐</p>
+  </samp>
+</div>
 
 --- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="ks-ahmed" /> </p>
@@ -23,8 +31,7 @@
 
 ---
 
-- 🌱 I'm a passionate **All things Cloud + DevOps Enthusiast.**
-- I believe infrastructure should be reproducible, systems observable, and deployments boring (because they just work).
+- 🌱 I'm a passionate **All things Cloud + DevOps.**
 
 ---
 
