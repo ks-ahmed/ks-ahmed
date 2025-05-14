@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/python-3670A0?&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-CI/CD-FF6C37?&logo=Jenkins&logoColor=white" alt="CI/CD"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=Docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=Kubernetes&logoColor=white" alt="Kubernetes"/>
