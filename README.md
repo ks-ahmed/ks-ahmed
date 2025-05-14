@@ -73,5 +73,5 @@
 
 ---
 <samp>
-<p>Appreciate you diving into my GitHub profile! Got questions, feedback, or or just a good chat? Hit me up—I'm all ears (and keyboards)!"</p>
+<p>Appreciate you diving into my GitHub profile! Got questions, feedback, or just a good chat? Hit me up—I'm all ears (and keyboards)! 😁 "</p>
 </samp>
