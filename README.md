@@ -76,6 +76,11 @@
 ---
 
 
-<p>Appreciate you diving into my GitHub profile! Got questions, feedback, or just a good chat? Hit me up—I'm all ears (and keyboards)! 😁</p>
+<p>Appreciate you diving into my GitHub profile! Got questions, feedback, or just a good chat? Hit me up—I'm all ears (and keyboards)! </p>
+<h3 align="left">Let's connect:</h3>
+<p align="left">
+<a href="https://medium.com/@kadar-a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kadar-a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ks-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ks-ahmed" height="30" width="40" /></a>
+</p>
 
 </samp>
