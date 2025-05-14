@@ -26,10 +26,12 @@
       <a href="https://medium.com/@kadar-a" target="blank"><img align="center"
           src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
           alt="azzar" height="30"/></a>
+      
 </div>
 
+<samp>
 
-### 🛠️ Technologies & Skills
+### Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black" alt="Linux"/>
@@ -50,12 +52,11 @@
 ---
 
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ks-ahmed&show_icons=true&locale=en" alt="ks-ahmed" /></p>
 
 
 ---
-
+  
 - 🌱 passionate about **All things Cloud + DevOps.**
 
 - 📫 How to reach me **ka-sharif@outlook.com**
@@ -63,15 +64,18 @@
 - ⚡ Fun fact **I speak 5 Languages**
 
 
-### Blogs posts
+### Blogs posts:
+
 <a href="https://medium.com/@kadar-a" target="_blank">~Kadar Ahmed~ On Medium</a> 
 
 ---
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/kadarahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kadarahmed" /></a></p><br><br></br>
 
+
 ---
 
-<samp>
+
 <p>Appreciate you diving into my GitHub profile! Got questions, feedback, or just a good chat? Hit me up—I'm all ears (and keyboards)! 😁</p>
+
 </samp>
