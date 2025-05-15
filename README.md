@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="DevOps" src="https://media.licdn.com/dms/image/v2/D4E22AQExk7M4ukJGlg/feedshare-shrink_800/B4EZaaqw_IGYAg-/0/1746351625053?e=1750291200&v=beta&t=M0EHjlgjdiIRLxU50GsGjNjBHY5z6fu16FKWYo1bv6w" />
+<img width="400" alt="DevOps" src="https://media.licdn.com/dms/image/v2/D4E22AQExk7M4ukJGlg/feedshare-shrink_800/B4EZaaqw_IGYAg-/0/1746351625053?e=1750291200&v=beta&t=M0EHjlgjdiIRLxU50GsGjNjBHY5z6fu16FKWYo1bv6w" />
 </div>
 
 
