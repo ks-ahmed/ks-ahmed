@@ -59,9 +59,9 @@
   
 - 🌱 Passionate about **All things Cloud + DevOps.**
 
-- 📫 Reach me at: **ka-sharif@outlook.com**
-
 - ⚡ Fun fact **I speak 5 Languages**
+
+- 📫 Reach me at **ka-sharif@outlook.com** 
 
 
 ### Blogs posts:
