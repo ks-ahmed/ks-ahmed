@@ -1,10 +1,8 @@
 <div align="center">
-<img width="400" alt="DevOps" src="https://media.licdn.com/dms/image/v2/D4E22AQExk7M4ukJGlg/feedshare-shrink_800/B4EZaaqw_IGYAg-/0/1746351625053?e=1753315200&v=beta&t=el6Wi1HL2AJ12SrVYasmkh8Q85vctERxQs1K5P4pU9w" />
+<img width="200" alt="DevOps" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" />
 </div>
 
-
-
-
+---
 
 <h1 align="center"> Hi 👋 I'm Kadar </h1>
 
